@@ -28,7 +28,7 @@ This paper is a fork of the paper written by [Eric Lorenzana](https://github.com
 - Try to limit your code to 72-78 column lines...
   - But don't stress over it. Real world code often has very long sentences, and trying to force them to be below 78 columns leads to tight, but ugly code. In a nutshell: <= 72 is perfect, <= 78 is great, > 78 is not as bad as some folks might try to make you believe.
   
-- Use two spaces per indentation level. The main advantage being that it makes it a bit more difficult for undisciplined coders to insert tabs all over the place. Decreasing the level of indentation also helps in keeping a maximum of 78 column lines.
+- Use four spaces per indentation level. The main advantage being that it provides a consistent and readable format, making it easier to maintain code quality. This level of indentation also helps in keeping lines within a reasonable length, promoting better readability.
 
 - Do not use tabs. It makes code difficult to browse in some hosts (where 8 spaces per tab is the standard) and only works when indenting by blocks.
 
